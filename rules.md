@@ -28,7 +28,7 @@
 - **Flask Deployment Errors**:  
   - Log errors and return JSON response with status code.
 
-
+---
 
 ## 4. AI Boundaries
 - **Should Do**:
@@ -43,13 +43,6 @@
   - Make medical or health claims beyond mask detection.
   - Replace human judgment in compliance enforcement.
   - Use external APIs without user consent.
-
-
-
-## 5. Deployment Rules
-- Flask app should run locally or on trusted servers only.
-- No cloud deployment without proper authentication.
-- Keep demo lightweight and secure.
 
 
 
