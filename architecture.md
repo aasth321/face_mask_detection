@@ -55,3 +55,6 @@
 - **Web Framework (Optional)**: Flask  
 - **Data Handling**: NumPy, Pandas  
 - **Visualization**: Matplotlib, Seaborn  
+
+- **Model Evaluation**: Scikit-learn (accuracy, confusion matrix, etc.)  
+- **Alert System**: winsound / playsound (audio alerts)  
