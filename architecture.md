@@ -47,6 +47,17 @@
   - Lightweight UI for demo  
 
 
+# Tech Stack
+- **Programming Language**: Python  
+- **Deep Learning Framework**: TensorFlow / Keras  
+- **Computer Vision Library**: OpenCV  
+- **Face Detection**: Haar Cascades (XML classifier)  
+- **Web Framework (Optional)**: Flask  
+- **Data Handling**: NumPy, Pandas  
+- **Visualization**: Matplotlib, Seaborn  
+- **Model Evaluation**: Scikit-learn (accuracy, confusion matrix, etc.)  
+- **Alert System**: winsound / playsound (audio alerts)  
+
 
 
 ## 🔗 Workflow Diagram (Textual)
